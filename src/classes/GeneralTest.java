@@ -1,7 +1,7 @@
 package classes;
 
 public class GeneralTest {
-public boolean testB(int b,String x)
+public boolean testB(int b)
 {
 	
 	return b==0;
