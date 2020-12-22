@@ -28,7 +28,7 @@ Assert.assertEquals(true, gt.difference(6, 14));
 @Test
 public void testChaine()
 {
-	Assert.assertEquals(true, gt.verifChaine(" bonjour"));
+	Assert.assertEquals(true, gt.verifChaine(""));
 
 }
 }
